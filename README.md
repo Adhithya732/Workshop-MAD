@@ -20,8 +20,8 @@ Step 6: Get contacts details and Display details give in MainActivity file.
 Step 7: Save and run the application.
 ## PROGRAM:
 Program to print the text “ExplicitIntent”.
-Developed by: SUDHAKARAN S
-Registeration Number : 212222220051
+Developed by: ADHITHYA A
+Registeration Number : 212222220004
 ## MainActivity.java:
 ```java
 package com.example.workshop;
